@@ -1,0 +1,7 @@
+title=CharSequence vs String
+date=2013-04-24
+type=blog
+tags=blog,java
+status=published
+summary=What are the differences between CharSequence and a String, and when is each one used in java?
+category=technology

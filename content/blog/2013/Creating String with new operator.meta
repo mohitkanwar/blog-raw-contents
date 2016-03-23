@@ -1,0 +1,7 @@
+title=String and New keyword
+date=2013-04-24
+type=blog
+tags=blog,java
+status=published
+summary=Why is using new keyword for String objects a bad idea and how to internalize objects thus created?
+category=technology

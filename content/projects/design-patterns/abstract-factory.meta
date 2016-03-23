@@ -1,0 +1,5 @@
+title=Abstract Factory
+type=page
+status=draft
+category=technology
+summary= Abstract Factory Design Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.

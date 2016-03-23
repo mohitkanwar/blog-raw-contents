@@ -1,0 +1,210 @@
+{
+    "name": "Mohit Kanwar",
+    "contacts": {
+        "address": {
+            "street1": "H.No 100, ground floor ",
+            "street2": "Sector 51",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "country": "India",
+            "pincode": "122001"
+        },
+        "telephone": {
+            "mobile": "8588832476",
+            "alternate-mobile": "9810382476"
+        },
+        "email": "m.m.kanwar@gmail.com"
+    },
+    "workexperience": [
+        {
+            "organisation": "Sebiz Infotech",
+            "startdate": "1st June 2007",
+            "enddate": "27th July 2007",
+            "designation": "Trainee",
+            "projects": [
+                {
+                    "name": "Search Engine Optimization",
+                    "technologies": [
+                        "Internet",
+                        "Google Search Engine",
+                        "HTML"
+                    ],
+                    "description": "Search engines have a logic of ordering website for a given keyword. How to modify our site more relavant and popular, so that it appears up the order in search engines and bring more business.",
+                    "role": "Trainee"
+                },
+                {
+                    "name": "Site Building",
+                    "technologies": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "PHP"
+                    ],
+                    "description": "Develope a website for clients to popularize the business and enable payments online.",
+                    "role": "Trainee"
+                }
+            ]
+        },
+        {
+            "organisation": "Infosys Ltd.",
+            "startdate": "14st July 2008",
+            "enddate": "11th February 2013",
+            "designation": "Sr. Systems Engineer",
+            "projects": [
+                {
+                    "name": "Finacle E-Banking Architecture",
+                    "technologies": [
+                        "Java",
+                        "J2EE",
+                        "XML",
+                        "Oracle",
+                        "MS Sql"
+                    ],
+                    "description": "Finacle E-Banking is a popular E-Banking product deployed in various banks across the world.",
+                    "roles": [
+                        "Developer",
+                        "Architect"
+                    ]
+                }
+            ]
+        },
+        {
+            "organisation": "SapientNitro",
+            "startdate": "12th February 2013",
+            "enddate": "20th May 2014",
+            "designation": "Sr. Associate (Technology) L1",
+            "projects": [
+                {
+                    "name": "Natural Language Help",
+                    "technologies": [
+                        "Java",
+                        "J2EE",
+                        "XML",
+                        "MySql",
+                        "Spring",
+                        "Hibernate",
+                        "AJAX",
+                        "REST API"
+                    ],
+                    "description": "Building an help engine which responds in natural language.",
+                    "roles": [
+                        "Developer",
+                        "Architect"
+                    ]
+                },
+                {
+                    "name": "Backbase Integration Module",
+                    "technologies": [
+                        "Java",
+                        "J2EE",
+                        "XML",
+                        "MySql",
+                        "Spring",
+                        "Hibernate",
+                        "AJAX",
+                        "REST API",
+                        "SOAP API",
+                        "Backbase"
+                    ],
+                    "description": "Building a product using Backbase for Insurance major",
+                    "roles": [
+                        "Developer",
+                        "Architect"
+                    ]
+                }
+            ]
+        },
+        {
+            "organisation": "Xebia IT Architects",
+            "startdate": "21st May 2014",
+            "enddate": "present",
+            "designation": "Sr. Consultant",
+            "projects": [
+                {
+                    "name": "Liferay Portal Developement",
+                    "technologies": [
+                        "Java",
+                        "J2EE",
+                        "XML",
+                        "MySql",
+                        "Spring",
+                        "AJAX",
+                        "REST API",
+                        "Liferay"
+                    ],
+                    "description": "Building and maintaining microsites using Liferay",
+                    "roles": [
+                        "Developer",
+                        "Architect",
+                        "Scrum Master"
+                    ]
+                },
+                {
+                    "name": "Production Support - Liferay",
+                    "technologies": [
+                        "Java",
+                        "J2EE",
+                        "XML",
+                        "MySql",
+                        "Spring",
+                        "AJAX",
+                        "REST API",
+                        "Liferay"
+                    ],
+                    "description": "Managing issues and developing enhancements for a live application built in Liferay",
+                    "roles": [
+                        "Developer",
+                        "Architect",
+                        "Scrum Master"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "level": "10th",
+            "yearofcompletion": "2002",
+            "score": "76 %",
+            "university": "C.B.S.E"
+        },
+        {
+            "level": "12th",
+            "yearofcompletion": "2004",
+            "score": "80 %",
+            "university": "C.B.S.E"
+        },
+        {
+            "level": "B.Tech",
+            "yearofcompletion": "2008",
+            "score": "72 %",
+            "university": "Punjab Technical University"
+        },
+        {
+            "level": "MBA (IT)",
+            "yearofcompletion": "2010",
+            "score": "60 %",
+            "university": "ICFAI University, Tripura"
+        }
+    ],
+    "socialprofiles": [
+        {
+            "github": "https://github.com/mohitkanwar"
+        },
+        {
+            "facebook - Java - Learn and Experiment ": "https://www.facebook.com/groups/348282245261737/"
+        },
+        {
+            "Quora": "http://www.quora.com/Mohit-Kanwar"
+        },
+        {
+            "Blog": "http://mohitkanwar.com"
+        },
+        {
+            "Linked In": "https://www.linkedin.com/pub/mohit-kanwar/11/8a2/766"
+        },
+        {
+            "StackOverFlow": "http://stackoverflow.com/users/1336558/mohit-kanwar"
+        }
+    ]
+}

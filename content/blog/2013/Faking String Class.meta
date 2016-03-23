@@ -1,0 +1,7 @@
+title=Fake JVM
+date=2013-04-24
+type=blog
+tags=blog,java
+status=published
+summary=What happens when we create a fake class which has same package and name as of an existing JVM class.
+category=technology

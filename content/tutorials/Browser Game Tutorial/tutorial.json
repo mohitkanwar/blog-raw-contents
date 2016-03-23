@@ -1,0 +1,11 @@
+{
+	"title": "Browser Game Tutorial",
+	"chapters": [{
+		"name": "Introduction",
+		"summary": "Introduction to Browser Games",
+		"pages": [{
+			"title": "What",
+			"body": "What are Browser games"
+		}]
+	}]
+}

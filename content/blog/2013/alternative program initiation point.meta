@@ -1,0 +1,7 @@
+title=No Main
+date=2013-04-24
+type=blog
+tags=blog,java
+status=published
+summary=How to run a Java Application without using main method ? An alternative program initiation point.
+category=technology

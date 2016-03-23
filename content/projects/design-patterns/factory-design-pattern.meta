@@ -1,0 +1,5 @@
+title=Factory Design Pattern
+type=page
+status=draft
+category=technology
+summary= Factory design pattern defines an interface for creating an object, but let subclass decide which class to instantiate. Factory method lets a class defer instantiation to the subclass.

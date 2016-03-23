@@ -1,0 +1,6 @@
+title=Shammy
+date=2016-01-07
+type=page
+status=published
+category=project
+summary=Shammy is a Static site generator, inspired from JBake. It builds a static site using templates that can be run on a server.
