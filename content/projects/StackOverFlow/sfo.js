@@ -4,6 +4,9 @@ function draw(d) {
     var popularityChangectx = document.getElementById("popularityChange").getContext("2d");
     var m_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     var curr_date = d.getDate();
+    if(curr_date<10){
+       curr_date = "0"+curr_date; 
+    }
     var curr_month = d.getMonth();
     var curr_year = d.getFullYear();
     var jsonFilePath = "data/" + curr_year + "/" + m_names[curr_month] + "/" + curr_date + "/top100tags.json";
