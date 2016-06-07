@@ -350,3 +350,8 @@ min-height: 30px;
     padding-top: 10px;
 }
 .withPopOver { cursor: pointer; }
+
+#global-search-results  .dropdown-menu .selected {
+   background-color: rgba(86, 61, 124, 0.15);
+   border: 1px solid rgba(86, 61, 124, 0.2);
+}
