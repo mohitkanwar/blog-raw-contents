@@ -23,7 +23,7 @@ Model is the data in angular application. Data can be binded in expressions for 
 ####Scope 	
 Scope is th context in which an app or a controller works. RootScope is the parent scope of all the scopes. A scope can be used to share data or functions.
 
-####Expressions 	
+####Expressions 	 
 Expressions are a way to access data or functions available in scope.
 
 ####Compiler 	

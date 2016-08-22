@@ -9,7 +9,7 @@
 			<li>Lifecycle Management of Beans</li>
 			<li>MVC Framework</li>
 			<li>Transaction Management</li>
-			<li>Database Exception Handling</li>
+			<li>Database Exception Handling</li> 
 		</ul>
 		</div>
 	</div>

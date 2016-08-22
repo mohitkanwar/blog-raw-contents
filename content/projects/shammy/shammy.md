@@ -53,4 +53,8 @@ Bake action combines the content and templates and prepares output which is stat
 Serve
 -----
 This action serves the contents of output on a Jetty Server for a quick review. To run your contents on server, just invoke command `shammy -s` or `shammy -serve`.  
+
+
+Bake and Serve
+--------------
 The serve command can be used along with bake command to bake and immedietely serve the contents on server. e.g. `shammy -b -s` command bakes the contents and serves them on server .

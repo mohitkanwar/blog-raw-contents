@@ -1,7 +1,7 @@
 A Quick Server
 ==============
 Many a times we need to serve some contents on a server for various needs. On Ubuntu (or any environment where python is installed) a quick HTTP Server is available.
-
+ 
 To host your files on a HTTP Server, you just need to go to the directory and use SimpleHTTPServer provided by python
 
 	cd \path\to\my\files\

@@ -1,4 +1,4 @@
-Designing Scalable Software
+Designing Scalable Software 
 ===========================
 Scalability, can be defined as the ability to do more than present. It is very well in hand in hand to Kaizen or Continuous Improvement.
 

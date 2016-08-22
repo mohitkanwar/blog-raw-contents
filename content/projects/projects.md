@@ -3,4 +3,11 @@ Projects
 ========
 Here is the list of projects
 
-<ul id = "listofprojects"></ul>
+<div class="row" id = "listofprojects">
+  
+</div>
+<div id = "modals">
+  
+</div>
+
+

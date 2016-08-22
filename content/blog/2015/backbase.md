@@ -12,4 +12,4 @@ Backbase CXP has following features
  * Digital marketing Tools
  * integrated analytics
 
-
+Backbase CXP lies on top of existing banking services and is best suited for banks which have existing core banking fascilities and want to enter (or improve their existing) e-banking services.

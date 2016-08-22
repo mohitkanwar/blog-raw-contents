@@ -1,7 +1,7 @@
 Apache Camel
 ============
 Apache Camel is a light weight integration liberary which provides features to define routing and mediation rules.
-
+ 
 It provides support for bean binding and seamless integration with frameworks like Spring and Guice. It also has extensive support for unit testing the defined routes.
 
 It provides concrete implementation of widely used Enterprise Integration Patterns.
