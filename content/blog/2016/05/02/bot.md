@@ -20,7 +20,7 @@ Destructive Purposes of Bots
  * Advertising where it is not appropriate (or allowed, e.g. chatting apps)
  * Site Scrapping for personal data (or other prohibited information)
 
- It depends upon how to use it. My view on bots is that they are really helpful servents. Since a single person can not do what all s/he wants her/himself in a given time. We can utilize these servents to do some activities on our behalf and get things done. We can simply use the output that they are providing. Again, there is a very thin line between what is ethical and what is not, I would recommend you to consult the data owners before copying any data.  
+ It depends upon how to use it. My view on bots is that they are really helpful servants. Since a single person can not do what all s/he wants her/himself in a given time. We can utilize these servants to do some activities on our behalf and get things done. We can simply use the output that they are providing. Again, there is a very thin line between what is ethical and what is not, I would recommend you to consult the data owners before copying any data.  
  Crossing the line of ethics may lead to big troubles. (Even if not, why to cross it?)
 
  I would be sharing some examples on bots soon.

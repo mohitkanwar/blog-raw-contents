@@ -21,7 +21,7 @@ Code review process can happen with single peer or with whole team.
     * Think of the required test cases
     * Compare them with the test cases already written
     * Check test case report
-    * Check naming convention -- (check relevence as a human)
+    * Check naming convention -- (check relevance as a human)
     * Check out for unused variables -- (automate)
     * Check out for variables used only once  -- (automate)
     * Double check if Last date of modification of file is more than 2 sprints -- (automate)

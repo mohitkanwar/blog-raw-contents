@@ -7,7 +7,7 @@ CSS is a style sheet language used for describing the presentation of a document
 The element to be styled is associated with a style name, and that style is defined in css files which would contain the looks controlling instructions. For more details, check [this](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) out.
 
 ### What is SASS/SCSS?
-With increase in the size of a web project, the number of CSS files go on increasing too. When the number of pages or UI components go beyong a level, it is difficult to maintain them. If multiple components are using same colour shade, even modifying all of them to one shade lower becomes a hectic task. Although we can include multiple css files in a page, the sense of modularity is a bit less. [The DRY principle](https://en.wikipedia.org/wiki/Don't_repeat_yourself)  is a principle of software development, aimed at reducing repetition of information of all kinds, especially useful in multi-tier architectures.  
+With increase in the size of a web project, the number of CSS files go on increasing too. When the number of pages or UI components go beyond a level, it is difficult to maintain them. If multiple components are using same colour shade, even modifying all of them to one shade lower becomes a hectic task. Although we can include multiple css files in a page, the sense of modularity is a bit less. [The DRY principle](https://en.wikipedia.org/wiki/Don't_repeat_yourself)  is a principle of software development, aimed at reducing repetition of information of all kinds, especially useful in multi-tier architectures.  
 All such and more problems can be solved if we utilize a tool to generate CSS files according to our needs. SASS/SCSS is such a CSS pre-processor. The output of a SASS/SCSS program are CSS files which are syntactically correct. Since these files are generated through a tool, they are free from any human error.
 SASS/SCSS provides many advantages over pure CSS like
 
@@ -23,7 +23,7 @@ TBD
 Features of SASS/SCSS
 ----------------
 ### Variables
-While in CSS, we hardcode the values, SASS/SCSS allows us to define a variable which can be used at multiple places. And if in future, if we need to modify it, one place change would do the magic. SASS/SCSS uses a <code>$</code> symbol to define a varialble
+While in CSS, we hardcode the values, SASS/SCSS allows us to define a variable which can be used at multiple places. And if in future, if we need to modify it, one place change would do the magic. SASS/SCSS uses a <code>$</code> symbol to define a variable
 
 The CSS way to define a header/footer and body css which have same text font and colour would be
 <div class="row"><div class="col-sm-6 col-md-4">
@@ -84,7 +84,7 @@ footer {
 </code></pre></div>
 </div>
 
-If we look closely, the colour and font code is repeated and violates the DRY principle, and if we had a way to defne a variable in CSS, it would have been cleaner to replace the hardcodings with a variable which is defined once. Unfortunately CSS doesn't supports variables, but SASS/SCSS does. so hardcoding is converted to variables using SASS/SCSS, and we maintain SASS/SCSS code. Css is the output of SASS/SCSS, which will always be same.
+If we look closely, the colour and font code is repeated and violates the DRY principle, and if we had a way to define a variable in CSS, it would have been cleaner to replace the hardcodings with a variable which is defined once. Unfortunately CSS doesn't supports variables, but SASS/SCSS does. so hardcoding is converted to variables using SASS/SCSS, and we maintain SASS/SCSS code. Css is the output of SASS/SCSS, which will always be same.
 
 ### Nesting
 SASS/SCSS provides a slight visual improvement over CSS by introducing hierarchial representation. e.g. in CSS, if you want to define a style to a div element which resides in nav element (hirarchal as in HTML) you can do so by 
@@ -127,7 +127,7 @@ Although CSS also supports importing and modularizing, each CSS file is loaded w
 
 ### Mixins
 Many a times, while creating CSS designs, we have to create similar styles varying only in little values. A lazier way of doing it is by using mixins.
-A mixin is analogus to a function, which takes inputs and creates css according to the input provided.
+A mixin is analogous to a function, which takes inputs and creates css according to the input provided.
 <div class="row"><div class="col-sm-6 col-md-4">
 <h4>CSS</h4>
 <pre><code>

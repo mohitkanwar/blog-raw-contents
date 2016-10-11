@@ -1,6 +1,6 @@
 Equals Operator vs Method
 =========================
-Equating two pbjects is a very common condition required while writing programs in any language.
+Equating two objects is a very common condition required while writing programs in any language.
 Java provides us two options for equating two objects.
 
 * By Using Operator ==

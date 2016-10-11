@@ -10,9 +10,9 @@ To host your files on a HTTP Server, you just need to go to the directory and us
 By running above commands, an HTTPServer would be started on port 8000. All files in this directory would be accessible on localhost:8000\
 
 This is very useful in sharing reports, data and other files within your network.   
-Since this is an HTTP Server, you can create HTMLs and broadcast them similar to a website. This is very helpful in our team, as we generate reports in HTML format and serve them through one of the machines that we are using.
+Since this is an HTTP Server, you can create HTML files and broadcast them similar to a website. This is very helpful in our team, as we generate reports in HTML format and serve them through one of the machines that we are using.
 Such reports can be hosted at one location and the whole team can access it.
-One just needs to replace `localhost` with the ip address of the machine on which it is hosted. e.g.
+One just needs to replace `localhost` with the IP address of the machine on which it is hosted. e.g.
 
 	192.168.45.21:8000/
 

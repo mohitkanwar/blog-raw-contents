@@ -10,7 +10,7 @@ Image
 
 Intent
 ------
-It has been long established now, that hardcodings impact scalability. Using `new` keyword to create instance has similar effect, as we are hard-wiring a concrete class. Creational patterns tend to remove or move this complexity.
+It has been long established now, that hard-coding any information impact scalability. Using `new` keyword to create instance has similar effect, as we are hard-wiring a concrete class. Creational patterns tend to remove or move this complexity.
 
 Abstract factory solves this problem when the objects to be created follow  a multilayer hierarchy.
 e.g.

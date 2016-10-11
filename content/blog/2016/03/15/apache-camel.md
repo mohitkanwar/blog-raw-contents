@@ -1,6 +1,6 @@
 Apache Camel
 ============
-Apache Camel is a light weight integration liberary which provides features to define routing and mediation rules.
+Apache Camel is a light weight integration library which provides features to define routing and mediation rules.
  
 It provides support for bean binding and seamless integration with frameworks like Spring and Guice. It also has extensive support for unit testing the defined routes.
 
@@ -12,7 +12,7 @@ Camel Context is typically singleton to an application. It provides runtime for 
 
 Endpoints
 ---------
-An endpoint is a connection point to a service from which data can be recieved or sent. Some examples of end points are
+An endpoint is a connection point to a service from which data can be received or sent. Some examples of end points are
 * JMS queue
 * Web Service
 * FTP Server
@@ -23,7 +23,7 @@ Endpoints which provide the data to camel are called Producers, and endpoints wh
 
 Component
 ---------
-Component is also known as EndPointFactory. It creates varuous endpoints in a URI Format
+Component is also known as EndPointFactory. It creates various endpoints in a URI Format
 `component:localpart[?options]`
 
 Full list of available components is available at [Camel Components](http://camel.apache.org/components)
@@ -40,7 +40,7 @@ Exchange is created by a producer and consumed by a consumer. It contains the in
 
 Routes
 ------
-A route defines the step by step movement of a message through an exchange. It is configured by a DSL, e.g. Spring XL or Java DSL
+A route defines the step by step movement of a message through an exchange. It is configured by a DSL, e.g. Spring XML or Java DSL
 
 Processors
 ----------

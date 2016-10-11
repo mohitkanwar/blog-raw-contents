@@ -236,7 +236,7 @@ Inheritance in Java is achieved through extends or implements keyword.
           <div class="col-lg-6">
             <div class="">
                 <h4>Creator</h4>
-                <p>The responsibility of a creator class is to instantiate and create objects for usage. It knows what object to be created, and the initialization values. Sometimes the creator class creates objects activily and stores them in a cache, and provides one instance as and when required or asked for.
+                <p>The responsibility of a creator class is to instantiate and create objects for usage. It knows what object to be created, and the initialization values. Sometimes the creator class creates objects actively and stores them in a cache, and provides one instance as and when required or asked for.
 </p>
             </div>
           </div>
@@ -316,7 +316,7 @@ Information Expert will lead to placing the responsibility on the class with the
           </div>
           <div class="col-lg-12">
               <blockquote>
-                <p>I find OOP technically unsound. It attempts to decompose the world in terms of interfaces that vary on a single type. To deal with the real problems you need multisorted algebras — families of interfaces that span multiple types. I find OOP philosophically unsound. It claims that everything is an object. Even if it is true it is not very interesting — saying that everything is an object is saying nothing at all.</p>
+                <p>I find OOP technically unsound. It attempts to decompose the world in terms of interfaces that vary on a single type. To deal with the real problems you need multi-sorted algebras — families of interfaces that span multiple types. I find OOP philosophically unsound. It claims that everything is an object. Even if it is true it is not very interesting — saying that everything is an object is saying nothing at all.</p>
                 <cite title="Source Title">Alexander Stepanov</cite>
               </blockquote>
           </div>

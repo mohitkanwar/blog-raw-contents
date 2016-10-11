@@ -6,7 +6,7 @@ AngularJS was built by keeping the needs of a CRUD web-application in mind, and 
 
 AngularJS provides following advantages
  * Removes boilerplate code of registering callback functions
- * Removes the need of extra code for manipulating HTML DOM programatically
+ * Removes the need of extra code for manipulating HTML DOM programmatically
  * It automatically marshals the data to and from the UI
  * Less Code to be written
 
@@ -18,7 +18,7 @@ Template is a piece of HTML code that contains Angular specific elements and att
 Directives extend HTML with custom attributes and elements. Angular provides some directives out of the box e.g. ng-app, ng-bind etc. We can create custom directives which provide additional functionality to HTML.
 
 ####Model 	
-Model is the data in angular application. Data can be binded in expressions for display or inputs for reading. Data model is updated automatically to-and-from by Angular.
+Model is the data in angular application. Data can be bounded in expressions for display or inputs for reading. Data model is updated automatically to-and-from by Angular.
 
 ####Scope 	
 Scope is th context in which an app or a controller works. RootScope is the parent scope of all the scopes. A scope can be used to share data or functions.

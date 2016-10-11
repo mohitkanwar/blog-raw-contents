@@ -45,7 +45,7 @@ Behavioral design patterns
 <li>Are you trying to design an object to act as a default value of an object? :    Null Object</li>
 <li>Are you trying to identify a way of notifying change to a number of classes? :    Observer</li>
 <li>Are you trying to alter an object's behaviour when its state changes? :    State</li>
-<li>Are you trying to encapsulate an algorith inside a class? :    Strategy</li>
+<li>Are you trying to encapsulate an algorithm inside a class? :    Strategy</li>
 <li>Are you trying to defer the exact steps of an algorithm to a subclass? :    Template method</li>
 <li>Are you trying to define a new operation to a class without change? :    Visitor</li>
 </ul>

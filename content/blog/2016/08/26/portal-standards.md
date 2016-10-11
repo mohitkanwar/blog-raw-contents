@@ -7,7 +7,7 @@ The portal developer utilizes existing features from the framework, customizes o
 
 Important Features
 ------------------
-Followin features are expected from a portal
+Following features are expected from a portal
 
  * Authentication
  * Authorization

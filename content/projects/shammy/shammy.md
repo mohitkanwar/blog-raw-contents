@@ -48,7 +48,7 @@ Following configurations are defined
 
 Bake
 ----
-Bake action combines the content and templates and prepares output which is static HTML site. This is invoked by `shammy -b` or `shammy -bake`. It also prepares `allpages.json` which contains data about all the pages in a json format. This can be utilized by ajax calls in JavaScript.
+Bake action combines the content and templates and prepares output which is static HTML site. This is invoked by `shammy -b` or `shammy -bake`. It also prepares `allpages.json` which contains data about all the pages in a JSON format. This can be utilized by ajax calls in JavaScript.
 
 Serve
 -----
@@ -57,4 +57,4 @@ This action serves the contents of output on a Jetty Server for a quick review. 
 
 Bake and Serve
 --------------
-The serve command can be used along with bake command to bake and immedietely serve the contents on server. e.g. `shammy -b -s` command bakes the contents and serves them on server .
+The serve command can be used along with bake command to bake and immediately serve the contents on server. e.g. `shammy -b -s` command bakes the contents and serves them on server .

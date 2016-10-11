@@ -15,7 +15,7 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal grid 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed—births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick (in other words, each generation is a pure function of the preceding one). The rules continue to be applied repeatedly to create further generations.
 
 Draw a pattern in below grid. (Clicking on a cell toggles between being alive and dead). Click on Show next gen button to get the results in next generation.
-You may check Loop Continuously checkbox to repeat generations. Grid size may be modified by entring values in the corresponding text box.
+You may check Loop Continuously check-box to repeat generations. Grid size may be modified by entering values in the corresponding text box.
 
 <div id="universeHolder"></div>
 <script  src="/js/projects/game-of-life/game-of-life.js"></script>

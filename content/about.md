@@ -3,7 +3,7 @@ About this blog
 <div id="mainContent">
 <h3><a href="/files/mohit%20Kanwar.pdf">Who am I</a></h3>
 <p>
-I am Mohit Kanwar, a graduate in Electronics and Communication enginnering and working as a Software Engineer since 2007.<br/>  
+I am Mohit Kanwar, a graduate in Electronics and Communication engineering and working as a Software Engineer since 2007.<br/>  
 I am passionate about learning new stuff and explore the unexplored areas. I like to travel and visit new places.</p>
 <h3>Why am I creating this blog? </h3>
 <p>
@@ -74,7 +74,7 @@ By using markdown, I can create content in a simple text editor, while giving me
 <h4 id="HTML">HTML</h4>
 <p>Hyper Text Markup Language is a markup language which is a standard across www. HTML is supported by all the browsers and is generally the first language that any web-developer learns.</p>
 <h4 id="bootstrap">Bootstrap</h4>
-<p>Bootstrap is a quick start styling system which is easy to customize and use. It provides out of the box awsome styles that can be used directly. The best part is that it is responsive and is built with an ideology of mobile-first. So all the pages developed are all-device compatible</p>
+<p>Bootstrap is a quick start styling system which is easy to customize and use. It provides out of the box awesome styles that can be used directly. The best part is that it is responsive and is built with an ideology of mobile-first. So all the pages developed are all-device compatible</p>
 <h4 id="jQuery">jQuery</h4>
 <p>Bootstrap framework is dependent upon jQuery framework, hence it is a mandatory requirement.</p>
 <h4 id="prettify">Prettify</h4>
@@ -84,6 +84,6 @@ By using markdown, I can create content in a simple text editor, while giving me
 <h4 id="animate">Animate</h4>
 <p>A cross-browser library of CSS animations. refer <a href="https://github.com/daneden/animate.css"> its github repo.</a></p>
 <h4 id="asciidoctor">Ascii Doctor</h4>
-<p>Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Refer its <a href="http://asciidoctor.org/">website.</a></p>
+<p>Asciidoctor is a fast text processor and publishing tool chain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Refer its <a href="http://asciidoctor.org/">website.</a></p>
 
 </div>
