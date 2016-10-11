@@ -6,10 +6,10 @@ Backbase CXP is a portal solution similar to other portals, e.g. Liferay. Backba
 Backbase CXP has following features
  * Integrated Content management system
  * What you see is what you get- editing and page creation
- * Secure application developement and integration
+ * Secure application development and integration
  * Cross device delivery
  * Targeting
  * Digital marketing Tools
  * integrated analytics
 
-Backbase CXP lies on top of existing banking services and is best suited for banks which have existing core banking fascilities and want to enter (or improve their existing) e-banking services.
+Backbase CXP lies on top of existing banking services and is best suited for banks which have existing core banking facilities and want to enter (or improve their existing) e-banking services.
