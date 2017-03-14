@@ -1,5 +1,5 @@
 
-<nav class="navbar  navbar-default sidebar" role="navigation">
+<nav class="navbar  custom-navigation sidebar" role="navigation">
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav">
       <li><a href="#" id ="rightnavbar-lg-next"><div class="sidebarlink" >&gt; Next</div></a></li>

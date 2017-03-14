@@ -1,4 +1,4 @@
-<div class="navbar navbar-default navbar-fixed-top">
+<div class="navbar custom-navigation navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <a href="/index.html" class="navbar-brand">Mohit Kanwar</a>
