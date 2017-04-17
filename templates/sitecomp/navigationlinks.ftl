@@ -6,4 +6,10 @@
     		</a>
     	</li>
     </#list>
+    <!-- Hard coded Links -->
+    <li>
+    		<a href="/projects/projects.html">
+    			Projects
+    		</a>
+    </li>
 </ul>

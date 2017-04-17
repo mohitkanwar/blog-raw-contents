@@ -11,9 +11,10 @@
 								<p>${p.summary}</p>
 							</div>
 						</a>
+						 
 				<#else>
 	            	<#if (x  < 10 )>
-	                    <#if (((x -1) % 3 )==0)>
+	                    <#if (((x-1)  % 3 )==0)>
 	                             <div class="row">
 	                    </#if>
 	                    <div class="col-sm-6 col-md-4">
@@ -26,14 +27,29 @@
 		                  		</div>
 	                  		</a>
 	                  	</div>
-	                    <#if ((x  % 3 )==0)>
+	                    <#if (((x)  % 3 )==0)>
 	                    	</div>
 	                    </#if>
 	                  			          
 	                </#if>
 	            </#if>
 	            <#assign x = x + 1>
+            
+            <#else>
+            <script>
+            console.log("${p.title} has no summary");
+            </script>
+            
             </#if>
    		</#list>
+   		<div class="col-sm-12 col-md-12">
+   		<a href="/categories.html" class="custom-block">
+	        
+	         <div class="thumbnail ">
+				<h3>Archive</h3>
+				<p>Here is the collection of archived articles.</p>
+			</div>
+		</a>
+   		</div>
 	</div>
 <#include "./sitecomp/footer.ftl">
