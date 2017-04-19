@@ -48,11 +48,11 @@ body {
 box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.5);
 
 }
-.custom-block:hover{
+.custom-block:hover,.custom-block:focus{
   text-decoration: none;
 
 }
-.custom-block:hover .thumbnail,.custom-block:hover .jumbotron{
+.custom-block:hover .thumbnail,.custom-block:hover .jumbotron,.custom-block:focus .thumbnail,.custom-block:focus .jumbotron{
  -webkit-box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.5);
 -moz-box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.5);
 box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.5);
@@ -63,6 +63,10 @@ a.custom-block{
 }
 h1,h3,.jumbotron h1{
   color: #2a6496;
+}
+
+p {
+    margin: 0 10px 10px;
 }
 /* Custom page CSS
 -------------------------------------------------- */
