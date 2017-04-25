@@ -1,7 +1,7 @@
-		</div>
-		<div id="push"></div>
-    <div id="footer">
-      <div class="container">
+      </div>
+	<div id="push"></div>
+      <div id="footer">
+            <div class="container">
       		<div class="col-sm-8 col-sm-offset-2 text-center">
       			<ul class="list-inline center-block">
       				<li title="Github">
@@ -31,8 +31,7 @@
       				</li>
       			</ul>
       		</div>
-      </div>
+            </div>
     </div>
-   
   </body>
 </html>
