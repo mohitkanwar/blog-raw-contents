@@ -1,6 +1,8 @@
 StackOverFlow Analysis
 ======================
 
+${.dataModel["data"]}
+#This is new page
 Top 20 Tags 
 ------------
 <canvas id="top20tags" width="800" height="400"></canvas> 
