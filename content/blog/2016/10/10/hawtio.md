@@ -11,17 +11,17 @@ Hawtio is a
 
 It can be downloaded from [the official website](http://hawt.io/)
 
-###Plugins
+### Plugins
 Following are the plugins available in hawtio (they may differ on your machine)
 
 ![Image of Plugin](./plugins.png)
 
-###ActiveMQ Plugin
+### ActiveMQ Plugin
 ActiveMQ plugin enables us to view and execute existing Message Queues.
 We can play around with message queues, change attributes, create diagrams and charts for analysis.
 ![Image of ActiveMQ Plugin](./hawtio-activeMQ--plugin.png)
 
-###Camel Plugin
+### Camel Plugin
 Camel plugin enables us to analyze existing routes, create diagrams and debug camel routes.
 
 ![Image of Camel Plugin](./hawtio-camel-plugin.png)
